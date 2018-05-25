@@ -1,8 +1,8 @@
 ---
-templateKey: 'product-page'
-path: /products
-title: Our Coffee
-image: /img/jumbotron.jpg
+templateKey: product-page
+title: Online reservation solutions
+image: >-
+  /img/mountains-mount-cook-new-zealand-sky-nice-amazing-beauty-big-cool-clouds-good-mountain-desktop-photo-1920x1080.jpg
 heading: What we offer
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -99,3 +99,4 @@ pricing:
       plan: Custom
       price: '??'
 ---
+
